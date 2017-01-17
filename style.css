@@ -1,0 +1,40 @@
+body {
+  font-family: 'helvetica neue', arial, sans-serif;
+  font-weight: 300;
+  background-color: #4F2170;
+}
+.navbar-default{
+  background-color: #259e97;
+  border-color: #259e97;
+  color: #4F2170;
+}
+.navbar-brand{
+  background-color: white;
+}
+.navbar-nav{
+  background-color: white;
+}
+#main-container{
+  background-color: white;
+}
+.klogo{
+  width: 600px
+}
+.wbalogo{
+  width: 300px
+}
+.wbaheader{
+  width: 880px
+}
+h1{
+  font-size: 40px
+}
+h2{
+  font-size: 18px
+}
+h3{
+  font-size: 16px
+}
+.board-member{
+  width: 100px
+}
